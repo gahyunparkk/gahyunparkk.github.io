@@ -1,0 +1,15 @@
+ol li{font-size: large;}
+table {
+    width: 50%;
+    border: 1px solid #444444;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #444444;
+  }
+  img {
+    width: 150px;
+    height: 150px;
+    object-fit: fill;
+  }
+  hn:last-child{font-size: 9px; color: gray}
